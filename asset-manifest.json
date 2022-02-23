@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/DRgit03//.github.io/TestDeploy/static/js/main.af2e6cd2.js",
-    "index.html": "/DRgit03//.github.io/TestDeploy/index.html",
-    "main.af2e6cd2.js.map": "/DRgit03//.github.io/TestDeploy/static/js/main.af2e6cd2.js.map"
+    "main.js": "/TestDeploy/static/js/main.414ee825.js",
+    "index.html": "/TestDeploy/index.html",
+    "main.414ee825.js.map": "/TestDeploy/static/js/main.414ee825.js.map"
   },
   "entrypoints": [
-    "static/js/main.af2e6cd2.js"
+    "static/js/main.414ee825.js"
   ]
 }
